@@ -3380,7 +3380,7 @@
 894^6^Covers your skin in a light veil that renders you invisible to most animals.^0
 895^1^Intense Hatred^0
 895^4^This ability intensifies the overall effect of damage shields that are cast on you. Additional ranks increase the effectiveness of this ability. ^0
-898^6^Constricts your target's throat, causing #1 damage every 6 seconds for %x, as well as lowering strength and agility.^0
+898^6^Constricts your target's throat, causing #1 damage every 6 seconds for %z, as well as lowering strength and agility.^0
 902^1^Call of the Ancients  ^0
 902^2^Call of^0
 902^3^the Ancients^0
@@ -15296,7 +15296,7 @@
 12340^2^Frost ^0
 12340^3^Rift^0
 12340^4^Creates a rift of bitter cold, causing between 24 and 29 damage to your target.^0
-12340^6^Summons a tumbleweed to follow you.  The movements of the tumbleweed inspire you and grant you a #2 to %2 dodge increase, depending on your level.^0
+12340^6^Summons a tumbleweed to follow you.  The movements of the tumbleweed inspire you and grant you a #2 to @2 dodge increase, depending on your level.^0
 12341^1^Blizzard Blast^0
 12341^2^Blizzard ^0
 12341^3^Blast^0
@@ -19325,7 +19325,7 @@
 15906^6^Uses the resonance of faycite to generate a powerful harmonic barrier around the caster.^0
 15907^6^Uses the resonance of faycite to generate a powerful harmonic barrier around the caster.^0
 15908^6^Allows you to jump several feet into the air.^0
-15909^6^This spell puts a 30%+ icy snare on a target.^0
+15909^6^This spell puts an icy snare of 30 percent or more on a target.^0
 15910^6^This spell puts a 50 percent icy snare on affected targets, and a knockback on all enemies within 20 feet.^0
 15911^6^This spell causes snow to fall.^0
 15912^6^Searing flames consume your target, causing up to #1 damage.^0
@@ -30734,7 +30734,7 @@
 30866^6^Reflects melee and spell damage.^0
 30867^6^Renders you unable to cast spells or use combat abilities.^0
 30897^6^Your wounds are healed over time.^0
-30900^6^A protective ward that will heal youover time when your health drops below 50%.^0
+30900^6^A protective ward that will heal you over time when your health drops below half.^0
 30906^6^Ancient spirits linger, preventing Spirit Guardian from being cast on you again.^0
 30951^6^Infection causes a loss of health over time.^0
 30952^6^Provides a protective barrier that shields the bearer from incoming attacks.^0
@@ -31312,7 +31312,7 @@
 32388^6^Reduces movement rate and reduces accuracy for up to %z.^0
 32401^6^Changes the user into a Girplan and casts another spell that offers an increase to maximum health.^0
 32402^6^Grants the wearer an increase to maximum health.^0
-32409^6^Heals for #1 per tick for up to %.^0
+32409^6^Heals for #1 per tick for up to %z.^0
 32411^6^Instantly strikes your enemy for #1, and then continues to damage them for #2 for up to %z.^0
 32412^6^Instantly strikes up to 3 targets in front of your for #1, and then continues to damage them for #2 for up to %z.^0
 32413^6^Causes #5 damage per tick, increases incoming damage by up to 50 percent for up to %z.^0
@@ -34602,7 +34602,7 @@
 36935^6^[2HS] Deliver a hard hitting two hit combo.^0
 36936^6^[2HS] Deliver a vicious blow that fills you with the thrill of battle, increasing your damage dealt and reducing your weapon delay.^0
 36938^6^[2HS] Deliver an elegant slash that reduces your foe's attack.^0
-36940^6^[2HS] Hit your foe with a deadly slash. If the blow is fatal, you instantly recover 30% of your health and mana (up to 600 each).^0
+36940^6^[2HS] Hit your foe with a deadly slash. If the blow is fatal, it instantly restores your health and mana.^0
 36942^6^[2HS] Project a beam from your blade that slices foes in a line.^0
 36943^6^[2HS] Deliver a stunning slash that electrifies your foe.^0
 36944^6^[2HS] Deliver a slash that wreathes your foe in darkness and curse them to flee for their lives.^0
@@ -35300,7 +35300,7 @@
 38709^6^Increases the target's resistance to fire spells.^0
 38710^6^Increases the target's resistance to magic spells.^0
 38711^6^You are pulled back into battle!^0
-38712^6^Reflects all spells back at their caster at 150% of the original damage. Also shields bearer against any magic damage.^0
+38712^6^Reflects all spells back at their caster at 150 percent of the original damage. Also shields bearer against any magic damage.^0
 38713^6^Places a deadly spiked barrier around the bearer which deals damage to melee attackers. Also shields the bearer from melee damage.^0
 38714^6^A stunning blow throws you backwards and deals damage.^0
 38935^6^Allows you to purchase special mercenaries from Facesmasher Brog in the Plane of Knowledge.  Thank you for participating in the Seeds of Destruction Beta!^0
@@ -36844,14 +36844,14 @@
 66654^6^Open the box to reveal: a Guild Alchemy Table, a Guild Fletching Table, a Guild Fly Making Bench, a Guild Ice Cream Churn, a Guild Jewelry Making Table, a Guild Mixing Bowl, a Guild Poisoncrafting Table, and a Guild Tinkering Table.^0
 66656^6^This complex device allows you to modify the appearance of some guild hall assistants.^0
 66661^6^Open the package to reveal: Modest Guild Hall, a Collection of Standard Guild Furnishings, a Collection of Standard Guild Services, and a Collection of Extra Guild Furnishings.^0
-66662^6^Increases spell damage taken by 10% and decreases Fire resistance by 20.^0
-66663^6^Increases spell damage taken by 10% and decreases Poison resistance by 20.^0
-66664^6^Increases spell damage taken by 10% and decreases Cold resistance by 20.^0
-66665^6^Increases spell damage taken by 10% and decreases Disease resistance by 20.^0
-66666^6^Increases spell damage taken by 15% and decreases Fire and Poison resistance by 30.^0
-66667^6^Increases spell damage taken by 15% and decreases Cold and Disease resistance by 30.^0
-66668^6^Increases spell damage taken by 20% and decreases Fire, Poison, and Magic resistance by 50.^0
-66669^6^Increases spell damage taken by 20% and decreases Cold, Disease, and Corruption resistance by 50.^0
+66662^6^Increases spell damage taken by 10 percent and decreases Fire resistance by 20.^0
+66663^6^Increases spell damage taken by 10 percent and decreases Poison resistance by 20.^0
+66664^6^Increases spell damage taken by 10 percent and decreases Cold resistance by 20.^0
+66665^6^Increases spell damage taken by 10 percent and decreases Disease resistance by 20.^0
+66666^6^Increases spell damage taken by 15 percent and decreases Fire and Poison resistance by 30.^0
+66667^6^Increases spell damage taken by 15 percent and decreases Cold and Disease resistance by 30.^0
+66668^6^Increases spell damage taken by 20 percent and decreases Fire, Poison, and Magic resistance by 50.^0
+66669^6^Increases spell damage taken by 20 percent and decreases Cold, Disease, and Corruption resistance by 50.^0
 79597^6^A magical gift that can only be opened once.^0
 79722^7^Circum^0
 79901^7^Combine Signet Ring^0
@@ -37079,7 +37079,7 @@
 95274^2^Mineuchi^0
 95274^3^^0
 95274^4^Strike your target with the back of your blade, leaving it dazed for one minute. Each tick it stays dazed, it has a 10% chance to be stunned for 4 seconds.^0
-95274^6^Dazes the target for one minute. Each tick, the target has a 10% chance to be stunned for 4 seconds.^0
+95274^6^Dazes the target for one minute. Each tick, the target has a 10 percent chance to be stunned for 4 seconds.^0
 95275^1^Shikikoyo^0
 95275^2^Shikikoyo^0
 95275^3^^0
@@ -37089,12 +37089,12 @@
 95276^2^Razor Hatchling^0
 95276^3^^0
 95276^4^You call forth a razor hatchling that sharpens your strikes, increasing your melee damage by 10%, and occasionally rakes your foes with razor breath. Only one hatchling answers your call at a time.^0
-95276^6^Calls a razor dragon hatchling to your side, increasing your melee damage by 10% and adding a chance to rake your target with Razor Breath.^0
+95276^6^Calls a razor dragon hatchling to your side, increasing your melee damage by 10 percent and adding a chance to rake your target with Razor Breath.^0
 95277^1^Call Valor Hatchling^0
 95277^2^Valor Hatchling^0
 95277^3^^0
 95277^4^You call forth a valor hatchling that guards you, reducing the melee damage you take by 10%, and occasionally stuns nearby foes with a blinding breath. Only one hatchling answers your call at a time.^0
-95277^6^Calls a valor dragon hatchling to your side, reducing melee damage taken by 10% and adding a chance to stun nearby enemies with Valor Breath.^0
+95277^6^Calls a valor dragon hatchling to your side, reducing melee damage taken by 10 percent and adding a chance to stun nearby enemies with Valor Breath.^0
 95278^6^Your hatchling rakes the target with a gout of razor-edged scales.^0
 95279^6^Your hatchling unleashes a blinding radiant breath that stuns nearby enemies.^0
 95280^6^A vicious melee strike that deals physical damage to the target.^0
@@ -37203,7 +37203,7 @@
 95800^6^The soporific musk overwhelms you, putting you to sleep for %z. Taking damage will wake you.^0
 95801^6^The taste of blood nourishes you, restoring #2 hit points every six seconds for %z.^0
 95802^6^A howling whirlwind tears through all nearby enemies, causing between #1 and @1 damage.^0
-95803^6^Your hatchling exhales a soothing breath that mends the wounds of everyone in your group, healing them for 4% of their maximum health.^0
+95803^6^Your hatchling exhales a soothing breath that mends the wounds of everyone in your group, healing them for 4 percent of their maximum health.^0
 95804^6^The momentum of your wheeling thrusts empowers you, increasing your chance to double attack and the damage of your melee attacks for %z.^0
 95805^6^The hatred you stole from your foe fuels your arms, increasing your attack rating for %z.^0
 95806^6^Your foe's pain strengthens you, increasing your armor class for %z.^0
@@ -37695,7 +37695,7 @@
 1050880^6^Activate this while in a fear-tainted destination to attune yourself to its Shard's Landing portal.^0
 1050881^6^Your weapon strikes out.^0
 1050882^6^Provides a ward for your group that absorbs one attack and restores 100 hp.^0
-1050883^6^Increases the AC Soft Cap by 10%^0
+1050883^6^Increases the AC Soft Cap by 10 percent.^0
 1050884^6^Fills you with purpose and provides a small amount of vitality restoration based on damage dealt, mitigation and a chance to reflect spells.^0
 1050885^6^Allows you to resist stuns from the front.^0
 1050886^6^You pull bone fragments from the earth and project them forward in a cone raking all of the enemies in a 70 degree cone^0
@@ -37703,7 +37703,7 @@
 1050888^6^Target is filled with awe and suffers a penalty to their hit rate as they cower before the fury of the gods.^0
 1050889^6^You call forth the power of heaven to deliver justice to your foes with a massive swing of your sword which has a chance to stun and is guaranteed to reduce their hit rate and deal substantial damage in an area of effect.^0
 1050890^6^Freezes the soul of your target .  Has a chance to re-apply a more severe version of this dot at  when the duration expires which in turn has a chance to re-apply a more severe version of this dot.  The final version refunds some mana if allowed to expire.^0
-1050891^6^Increases your chance to crit with dots by a large amount as well as the base damage of those critical dot ticks in exchange for 10% of your hp every tick.^0
+1050891^6^Increases your chance to crit with dots by a large amount as well as the base damage of those critical dot ticks in exchange for 10 percent of your hp every tick.^0
 1050892^6^Fills your target's blood with poison, causing between #2 and @2 damage every six seconds for %z.  Additionally this spell has a chance to spread to nearby targets every 12 seconds.^0
 1050893^6^Causes your foe to shrink away from you in awe reducing their chance to hit by 8 percent.^0
 1050894^6^You deliver a series of savage blows that tenderize the target's spirit, leaving them more vulnerable to magical effects.^0
@@ -37864,7 +37864,7 @@
 1051049^6^You plunge your foe into darkness rendering them blind and afflicting them with @1 damage per tick for %z^0
 1051050^6^Bite your enemy dealing between  #1 and  @1  damage and stealing that health for yourself.  In addition the taste of blood nourishes causing you to generate additional HP for a few ticks.^0
 1051051^6^You conjure up a restorative breeze to revitalize your nearby group members, restoring a random amount between #1 and @1 HP and attempting to remove a detrimental effect from each.^0
-1051052^6^You emit a substance that causes nearby enemies to fall asleep for %z.  Also has a 10% chance to cause you to doze off.^0
+1051052^6^You emit a substance that causes nearby enemies to fall asleep for %z.  Also has a 10 percent chance to cause you to doze off.^0
 1051053^6^You rend the enemy with three powerful attacks.^0
 1051054^6^You turn your magical gaze on your enemy dispelling effects in a cone in front of you.^0
 1051055^6^You let loose a chilling roar inflicting @3 instant magic damage on your foe and causing them to run in fear for %z.^0
@@ -37910,9 +37910,9 @@
 1051095^6^You are energized by your combo, Increase your overhaste (v2) by 10 percent.^0
 1051096^6^You are energized by your shoulder tackle, increasing fire magic and cold resists and AC by 25^0
 1051097^6^Allows you to breathe underwater but consumes an air crystal fragment when cast.^0
-1051098^6^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases you chance of using ammo by 80%.^0
-1051099^6^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases you chance of using ammo by 90%.^0
-1051100^6^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases you chance of using ammo by 100%.^0
+1051098^6^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases your chance of using ammo by 80 percent.^0
+1051099^6^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases your chance of using ammo by 90 percent.^0
+1051100^6^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases your chance of using ammo by 100 percent.^0
 1051101^6^Your samurai training grants you increased endurance per tick and increases your accuracy with 2 handed weapons.^0
 1051102^6^Your dragoon training Increases your chance to hit, critically hit, pierce your opponents defenses and your minimum hit damage.^0
 1051103^6^Your dragoon training Increases your chance to hit, critically hit, pierce your opponents defenses and your minimum hit damage. Additionally your draconic affinity renders you immune to fear and grants you a chance to land crippling blows on your foes.^0
