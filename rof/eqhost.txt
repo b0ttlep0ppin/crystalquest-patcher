@@ -1,2 +1,2 @@
 [LoginServer]
-Host=34.48.74.134:5999
+Host=login.crystalquesteq.net:5999
