@@ -36881,7 +36881,7 @@
 90005^4^You begin to meditate and gain a burst of endurance and restore additional endurance over the next few seconds.^0
 90006^1^Dragoon Trait^0
 90006^2^Dragoon Trait^0
-90006^4^Increases proficiency with 2 handed weapons including accuracy, crit rate, and minimum damage. Additionally provides a chance to ignore your opponents defenses.^0
+90006^4^Your dragoon training increases your accuracy, critical hit chance and minimum damage with every weapon, and gives you a chance to pierce your opponent's defenses.^0
 90007^1^Ancient Circle^0
 90007^2^Ancient Circle^0
 90007^4^You draw an ancient circle for you and your allies which increases your maximum HP, attack and renders you immune to fear.^0
@@ -36947,7 +36947,7 @@
 90113^1^Dark Knight Trait^0
 90113^2^Dark Knight Trait^0
 90114^4^Your Dark Knight training empowers you, slightly decreasing melee mitigation but allowing you to steal a portion of the damage you deal with melee attacks. In addition you have a chance to land an extra attack with two handed weapons, and increased attack offense.^0
-90115^4^Your Dark Knight training empowers you, slightly decreasing melee mitigation but allowing you to steal a portion of the damage you deal with melee attacks. In addition you have a chance to land an extra attack with two handed weapons, and increased attack offense. Additionally causes you to go berserk and enables crippling blows.^0
+90115^4^Your Dark Knight training empowers you, slightly decreasing melee mitigation but allowing you to steal a portion of the damage you deal with melee attacks. In addition you have a chance to land an extra attack with two handed weapons, and increased attack offense. Mastery also sharpens your accuracy.^0
 90116^1^Last Resort^0
 90116^2^Last Resort^0
 90116^4^You focus on your offense, increasing your damage dealt by 50 percent but your damage taken by 25 percent for 30 seconds.^0
@@ -36990,13 +36990,13 @@
 90135^4^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases your chance of using ammo by 100%.^0
 90136^1^Summoner Trait I^0
 90136^2^Summoner Trait^0
-90136^4^Increases your pet's chance to flurry, their size as well as your mana regeneration and maximum mana.^0
+90136^4^Increases your pet's chance to flurry, as well as your mana regeneration and maximum mana.^0
 90137^1^Summoner Trait II^0
 90137^2^Summoner Trait^0
-90137^4^Further increases your pet's chance to flurry, their size as well as your mana regeneration and maximum mana.^0
+90137^4^Further increases your pet's chance to flurry, as well as your mana regeneration and maximum mana.^0
 90138^1^Summoner Trait III^0
 90138^2^Summoner Trait^0
-90138^4^Greatly increases your pet's chance to flurry, their size as well as your mana regeneration and maximum mana.^0
+90138^4^Greatly increases your pet's chance to flurry, as well as your mana regeneration and maximum mana.^0
 90139^1^Blue Mage Trait I^0
 90139^2^Blue Mage Trait^0
 90139^4^Increases your chance to block, your proc rate, your minimum hit damage as well as your opponents chance to resist your spells.^0
@@ -37135,6 +37135,10 @@
 95315^6^[1HS] Deliver a savage two-hit combo to your foe, restoring some of your own mana.^0
 95316^6^Your goblin fury surges through you, instantly restoring some endurance and granting more endurance and mana over the next few seconds.^0
 95317^6^Restores some of your endurance.^0
+95318^1^Opportunist^0
+95318^2^Opportunist^0
+95319^4^You prepare to exploit an opening. Your next backstab is certain to land, with a greatly increased chance to critically hit and greatly increased damage.^0
+95320^4^Your dragoon training increases your accuracy, critical hit chance and minimum damage with every weapon, and gives you a chance to pierce your opponent's defenses. Your draconic affinity also renders you immune to fear and lets you land crippling blows.^0
 95400^6^Calls shadows to conceal you and your group, allowing all of you to move undetected by many creatures for up to %z.^0
 95401^6^[2HP] Deliver three powerful thrusts that leave you empowered, increasing your chance to double attack and the damage of your melee attacks for a short time.^0
 95402^6^[2HP] Deliver a powerful draconic thrust with a chance to sear your foe with dragonfire that burns them over time.^0
@@ -37217,6 +37221,16 @@
 95814^6^Changes your appearance to that of a wolf for %z.^0
 95815^6^Changes your appearance to that of a bear for %z.^0
 95816^6^The power drill has mangled this target's defenses, greatly decreasing their AC and melee mitigation and causing them to bleed for %z.^0
+95817^6^The grace of Parting the Silk lingers, increasing your proc rate.^0
+95818^6^Divine energy flows through you, restoring your health and mana over time.^0
+95819^6^[1HP] Two deadly stabs that leave you primed to heal, increasing your chance to land critical heals for a short time.^0
+95820^6^The rhythm of your technique lingers, increasing your chance to land critical heals.^0
+95821^6^[2HP] Deliver two powerful thrusts that sharpen your reflexes, letting you avoid more attacks for a short time.^0
+95822^6^[1HP] You eviscerate your target with five vicious thrusts of your knife.^0
+95823^6^[Archery] Fire three slavering shots at your foe, and your pet's wounds begin to close for a short time.^0
+95824^6^The thrill of the hunt closes your wounds over time.^0
+95825^6^[1HS] Strike your foe three times with a vicious technique absorbed from a master swordsman.^0
+95826^6^[2HS] Cut your foe down with two strokes that scatter like cherry blossoms.^0
 100182^6^Creates a cascade of magical energy that surrounds the target.^0
 100307^6^Drops a decaying pumpkin on the ground.^0
 100308^6^Poisons tidepools.^0
@@ -37916,7 +37930,7 @@
 1051101^6^Your samurai training grants you increased endurance per tick and increases your accuracy with 2 handed weapons.^0
 1051102^6^Your dragoon training Increases your chance to hit, critically hit, pierce your opponents defenses and your minimum hit damage.^0
 1051103^6^Your dragoon training Increases your chance to hit, critically hit, pierce your opponents defenses and your minimum hit damage. Additionally your draconic affinity renders you immune to fear and grants you a chance to land crippling blows on your foes.^0
-1051104^6^Your black mage training has granted you increased spell damage and increases your chance for your spells to critically strike, as well as increasing the basde damage of your critical hits.^0
+1051104^6^Your black mage training has granted you increased spell damage and increases your chance for your spells to critically strike, as well as increasing the base damage of your critical hits.^0
 1051105^6^Your time mage training increases your spell effect duration, decreases damage taken from spells and increases the chance of your heal over time spells to crit.^0
 1051106^6^Your summoner training increases your maximum mana and mana per tick.^0
 1051107^6^Your blue mage training increases your chance to block attacks, your melee proc rate, your minimum hit damage.  Additionally your blue magic is so potent your foes have a hard time resisting it.^0
@@ -37972,6 +37986,11 @@
 1051157^6^[1HB] You don an empowered suit of magitek armor, increasing your hit damage, min hit damage, ac, atk, hp regeneration, proc rate as well as periodically proccing cryogenic ray mk III. ^0
 1051158^6^^0
 1051159^6^The aftermath of impulse drive improves your reflexes, allowing you to avoid more attacks.^0
+1051160^6^[1HS] A devastating 5 hit technique.^0
+1051161^6^[2HS] Deliver a devastating 2 hit combination to your foe that almost never misses.^0
+1051162^6^[1HS] Slash your foe with a three hit combination that improves your group's proc rate for the next minute.^0
+1051163^6^^0
+1051164^6^[H2H] Unleash a divine eight hit combination on your foe that restores your group's health and mana for a short time.^0
 1120101^22^Tier I^0
 1120101^23^Race: Human<br>Type: Damage Caster<br>Confidence: Low<br>Proficiency: Apprentice, Tier I<br><br>Description: The mercenary you will be assigned is an apprentice damage caster of the first tier who exhibits a basic proficiency in the critical spells and skills used in their profession. Typically, this classification consists of mercenaries that have no field experience and possess no formal apprentice-level education, two factors that play a critical role in defining the mercenary's confidence level and frequent tendency to flee during moderately challenging encounters.<br><br>The mercenary's appointment to you will serve as an official introduction to their apprenticeship and the contractual, monetary obligations associated with the mercenary's services are commensurate with their experience. ^0
 1120102^22^Tier II^0
