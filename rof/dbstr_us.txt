@@ -10449,7 +10449,7 @@
 7800^1^Harm Touch^0
 7800^2^Harm^0
 7800^3^Touch^0
-7800^4^Grants the Shadow Knight a powerful destructive ability that inflicts terrible pain and damage on their target.^0
+7800^4^Grants the Dark Knight a powerful destructive ability that inflicts terrible pain and damage on their target.^0
 7818^1^Frenzied Volley^0
 7818^4^This ability gives you a chance to throw an additional axe when using your volley attacks. Each additional rank increases the damage inflicted by a successful attack.^0
 7822^1^Hastened Force of Will^0
