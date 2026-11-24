@@ -36950,7 +36950,7 @@
 90115^4^Your Dark Knight training empowers you, slightly decreasing melee mitigation but allowing you to steal a portion of the damage you deal with melee attacks. In addition you have a chance to land an extra attack with two handed weapons, and increased attack offense. Mastery also sharpens your accuracy.^0
 90116^1^Last Resort^0
 90116^2^Last Resort^0
-90116^4^You focus on your offense, increasing your damage dealt by 50 percent but your damage taken by 25 percent for 30 seconds.^0
+90116^4^You focus on your offense, increasing your damage dealt by 30 percent but your damage taken by 100 percent for 30 seconds.^0
 90117^1^Souleater^0
 90117^2^Souleater^0
 90117^4^You sacrifice your blood to further fuel your attacks, increasing your damage by 30 percent in exchange for 30 percent of your hp over the next 30 seconds.^0
@@ -36978,16 +36978,16 @@
 90130^1^Dancer Trait^0
 90130^2^Dancer Trait^0
 90131^4^Your dancer training has given you an increased chance to dodge and to hit with 1 hand piercing weapons. Additionally you generate less hate.^0
-90132^4^Your dancer training has given you an increased chance to dodge and to hit with 1 hand piercing weapons. Additionally you have a higher chance to dual wield.^0
+90132^4^Your dancer training has given you an increased chance to dodge and to hit with 1 hand piercing weapons. Additionally you generate less hate and have a higher chance to dual wield.^0
 90133^1^Beast Master Trait I^0
 90133^2^Beast Mst Trait^0
-90133^4^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases your chance of using ammo by 80%.^0
+90133^4^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases your chance of using ammo by 80 percent.^0
 90134^1^Beast Master Trait II^0
 90134^2^Beast Mst Trait^0
-90134^4^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases your chance of using ammo by 90%.^0
+90134^4^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases your chance of using ammo by 90 percent.^0
 90135^1^Beast Master Trait III^0
 90135^2^Beast Mst Trait^0
-90135^4^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases your chance of using ammo by 100%.^0
+90135^4^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases your chance of using ammo by 100 percent.^0
 90136^1^Summoner Trait I^0
 90136^2^Summoner Trait^0
 90136^4^Increases your pet's chance to flurry, as well as your mana regeneration and maximum mana.^0
@@ -37008,31 +37008,32 @@
 90141^4^Greatly increases your chance to block, your proc rate, your minimum hit damage as well as your opponents chance to resist your spells.^0
 90142^1^Engineer Trait I^0
 90142^2^Engineer Trait^0
-90142^4^Your engineering training enhances your mechanical aptitude and support capabilities.^0
+90142^4^Your engineering training gives you a chance to conserve material components, increases the minimum damage of your one-handed blunt attacks and gives you a chance to double attack.^0
 90143^1^Engineer Trait II^0
 90143^2^Engineer Trait^0
-90143^4^Your engineering training further enhances your mechanical aptitude and support capabilities.^0
+90143^4^Your engineering training further improves your chance to conserve material components, the minimum damage of your one-handed blunt attacks and your chance to double attack.^0
 90144^1^Engineer Trait III^0
 90144^2^Engineer Trait^0
-90144^4^Your engineering training greatly enhances your mechanical aptitude and support capabilities.^0
+90144^4^Your engineering training greatly improves your chance to conserve material components, the minimum damage of your one-handed blunt attacks and your chance to double attack.^0
 90145^1^White Mage Trait I^0
 90145^2^White Mage Trait^0
-90145^4^Your white magic training enhances your healing potency and divine protection.^0
+90145^4^Your white magic training increases your healing power and your chance to critically heal, and gives your healing spells a chance to twincast.^0
 90146^1^White Mage Trait II^0
 90146^2^White Mage Trait^0
-90146^4^Your white magic training further enhances your healing potency and divine protection.^0
+90146^4^Your white magic training further increases your healing power, your chance to critically heal and the chance for your healing spells to twincast.^0
 90147^1^White Mage Trait III^0
 90147^2^White Mage Trait^0
-90147^4^Your white magic training greatly enhances your healing potency and divine protection.^0
+90147^4^Your white magic training greatly increases your healing power, your chance to critically heal and the chance for your healing spells to twincast.^0
 90148^1^Time Mage Trait I^0
 90148^2^Time Mage Trait^0
-90148^4^Your mastery of temporal magic enhances your ability to manipulate time and space.^0
+90148^4^Your mastery of temporal magic lengthens your spell effects, reduces the damage you take from spells and gives your heal over time spells a chance to critically heal.^0
 90149^1^Time Mage Trait II^0
 90149^2^Time Mage Trait^0
-90149^4^Your mastery of temporal magic further enhances your ability to manipulate time and space.^0
+90149^4^Your mastery of temporal magic further lengthens your spell effects, reduces the damage you take from spells and improves the chance for your heal over time spells to critically heal.^0
 90150^1^Time Mage Trait III^0
 90150^2^Time Mage Trait^0
-90150^4^Your mastery of temporal magic greatly enhances your ability to manipulate time and space.^0
+90150^4^Your mastery of temporal magic greatly lengthens your spell effects, reduces the damage you take from spells and improves the chance for your heal over time spells to critically heal.^0
+90151^4^Your time as a thief has granted you attack power, increased movement rate, chance to avoid melee attacks, chance to triple attack, and increased backstab damage.^0
 95001^7^Alchemist Trophy^0
 95008^7^Baker Trophy^0
 95015^7^Brewer Trophy^0
@@ -37795,13 +37796,13 @@
 1050966^6^Your ninja training has given you an increased chance to dodge and avoid melee attacks. In addition your chance to dual wield is increased as well as your accuracy, and you gain a small chance to repeat your primary hand attack round.^0
 1050967^6^Inflicts your target with a binding curse, slowing their attack rate for %z.^0
 1050968^6^Your Dark Knight training empowers you, slightly decreasing melee mitigation but allowing you to steal a portion of the damage you deal with melee attacks. In addition you have a chance to land an extra attack with two handed weapons, and increased offense.^0
-1050969^6^You raise your offensive prowess to the limits, increasing your damage dealt by 50 percent but your damage taken by 100 percent for 30 seconds.^0
+1050969^6^You raise your offensive prowess to the limits, increasing your damage dealt by 30 percent but your damage taken by 100 percent for 30 seconds.^0
 1050970^6^You sacrifice your blood to further fuel your attacks, increasing your damage by 30 percent in exchange for 50 percent of your hp over the next 30 seconds.^0
 1050971^6^Freezes your foe with ice, causing an initial blast of damage and slowing their movement speed.^0
 1050972^6^Causes your target's heart beat to become irregular, lowering their strength, armor class, and attack doing between #4 and @4 damage every 6 seconds for %z.^0
 1050973^6^Surrounds your target in flickering lights, lowering their armor class, and doing between #2 and @2 damage every 6 seconds for %z.^0
 1050974^6^Removes toxin from your target's system, curing them of poisons.^0
-1050975^6^Your Red Mage training allows you to wield both spell and blade. Your spells cast faster, you have a higher chance to regain your concentration and you have an  increased chance to hit with your sword.^0
+1050975^6^Your Red Mage training allows you to wield both spell and blade. Your spells cast faster, you have a higher chance to regain your concentration and you have an increased chance to hit with your sword.^0
 1050976^6^Your Red Mage training allows you to wield both spell and blade. Your spells cast faster, you have a higher chance to regain your concentration and you have an increased chance to hit with your sword. In addition the harmony between your spells and sword allows you a small chance to reflect a spell.^0
 1050977^6^Gives your attacks a chance to cast stone I for %z.^0
 1050978^6^Gives your attacks a chance to cast fire I for %z.^0
@@ -37905,7 +37906,7 @@
 1051076^6^Forges a pact with a Salamander Spirit that allows your aether pet to take on their aspects. IN this case it greatly increases their dexterity and gives them a chance to proc a fire damage attack.  Additionally increases their attack speed by 35.^0
 1051077^6^Forges a pact with a Naiad Spirit that allows your aether pet to take on their aspects. IN this case it greatly increases their dexterity and gives them a chance to proc  rejuvenating effect that restores a little health and mana for your party.  Additionally increases their attack speed by 20.^0
 1051078^6^Forges a pact with a Rot Devil that allows your aether pet to take on their aspects. IN this case it greatly increases their dexterity and gives them a chance to proc a deadly disease  Additionally increases their attack speed by 45.^0
-1051079^6^Your engineer training gives you a chance to conserve material components for spells and items that requirement them, increases the minimum damage dealt with 1h Blunt attacks and gives you an increased chance of double attacking.^0
+1051079^6^Your engineer training gives you a chance to conserve material components for spells and items that require them, increases the minimum damage dealt with 1h Blunt attacks and gives you an increased chance of double attacking.^0
 1051080^6^This invention consumed an air crystal fragment to increase the vitality and AC of party.^0
 1051081^6^Overclock your automaton's components, granting it increased attack speed and strength for a period of time.^0
 1051082^6^You create an attachment for your automaton to wield that periodically inflicts ice damage on your foe.  Requires but does not consume a water crystal fragment.^0
@@ -37928,8 +37929,8 @@
 1051099^6^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases your chance of using ammo by 90 percent.^0
 1051100^6^Your beast master training allows you a chance to double attack with your bow, increases your archery damage and decreases your chance of using ammo by 100 percent.^0
 1051101^6^Your samurai training grants you increased endurance per tick and increases your accuracy with 2 handed weapons.^0
-1051102^6^Your dragoon training Increases your chance to hit, critically hit, pierce your opponents defenses and your minimum hit damage.^0
-1051103^6^Your dragoon training Increases your chance to hit, critically hit, pierce your opponents defenses and your minimum hit damage. Additionally your draconic affinity renders you immune to fear and grants you a chance to land crippling blows on your foes.^0
+1051102^6^Your dragoon training increases your chance to hit, critically hit, pierce your opponents defenses and your minimum hit damage.^0
+1051103^6^Your dragoon training increases your chance to hit, critically hit, pierce your opponents defenses and your minimum hit damage. Additionally your draconic affinity renders you immune to fear and grants you a chance to land crippling blows on your foes.^0
 1051104^6^Your black mage training has granted you increased spell damage and increases your chance for your spells to critically strike, as well as increasing the base damage of your critical hits.^0
 1051105^6^Your time mage training increases your spell effect duration, decreases damage taken from spells and increases the chance of your heal over time spells to crit.^0
 1051106^6^Your summoner training increases your maximum mana and mana per tick.^0
