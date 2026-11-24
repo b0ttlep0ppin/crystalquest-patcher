@@ -37795,8 +37795,8 @@
 1050966^6^Your ninja training has given you an increased chance to dodge and avoid melee attacks. In addition your chance to dual wield is increased as well as your accuracy, and you gain a small chance to repeat your primary hand attack round.^0
 1050967^6^Inflicts your target with a binding curse, slowing their attack rate for %z.^0
 1050968^6^Your Dark Knight training empowers you, slightly decreasing melee mitigation but allowing you to steal a portion of the damage you deal with melee attacks. In addition you have a chance to land an extra attack with two handed weapons, and increased offense.^0
-1050969^6^You raise your offensive prowess to the limits, increasing your damage dealt by 50 percent but your damage taken by 25 percent for 30 seconds.^0
-1050970^6^You sacrifice your blood to further fuel your attacks, increasing your damage by 30 percent in exchange for 30 percent of your hp over the next 30 seconds.^0
+1050969^6^You raise your offensive prowess to the limits, increasing your damage dealt by 50 percent but your damage taken by 100 percent for 30 seconds.^0
+1050970^6^You sacrifice your blood to further fuel your attacks, increasing your damage by 30 percent in exchange for 50 percent of your hp over the next 30 seconds.^0
 1050971^6^Freezes your foe with ice, causing an initial blast of damage and slowing their movement speed.^0
 1050972^6^Causes your target's heart beat to become irregular, lowering their strength, armor class, and attack doing between #4 and @4 damage every 6 seconds for %z.^0
 1050973^6^Surrounds your target in flickering lights, lowering their armor class, and doing between #2 and @2 damage every 6 seconds for %z.^0
