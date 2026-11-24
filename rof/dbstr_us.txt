@@ -34590,28 +34590,28 @@
 36836^6^Absorbs a percentage of damage up to a total of 50,000 before fading.^0
 36837^6^Your melee speed and movement rate have been lowered.^0
 36838^6^You have been silenced.^0
-36922^6^[1HS] Deliver two quick slashes to your foe.^0
-36923^6^[1HS] Ignite your foe with a fiery slash and reduce their AC.^0
-36925^6^[1HS] Bash your foe with the handle of your weapon to deliver a stunning blow.^0
-36927^6^[1HS] Deliver a slash of your blade infused with holy energy that heals you over time.^0
-36928^6^[1HS] Freeze your foe with an icy slash that deals damage over time and reduces their movement speed.^0
-36930^6^[1HS] Swing your blade in a sweeping arc to slash all foes around you.^0
-36931^6^[1HS] Deliver a 4 hit combination of attacks to decimate your foe.^0
-36932^6^[1HS] Hit your foe with a 2 hit technique that reduces their physical abilities.^0
-36934^6^[1HS] Channel the power of the earth through your blade at range, hitting your target twice and trapping nearby creatures in the earth.^0
-36935^6^[2HS] Deliver a hard hitting two hit combo.^0
-36936^6^[2HS] Deliver a vicious blow that fills you with the thrill of battle, increasing your damage dealt and reducing your weapon delay.^0
-36938^6^[2HS] Deliver an elegant slash that reduces your foe's attack.^0
-36940^6^[2HS] Hit your foe with a deadly slash. If the blow is fatal, it instantly restores your health and mana.^0
-36942^6^[2HS] Project a beam from your blade that slices foes in a line.^0
-36943^6^[2HS] Deliver a stunning slash that electrifies your foe.^0
-36944^6^[2HS] Deliver a slash that wreathes your foe in darkness and curse them to flee for their lives.^0
-36946^6^[1HS] Deliver a 3 hit combo and infuse yourself with the power of wind to increase your chance to crit and attack speed.^0
-36948^6^[2HS] Deliver a blow that leaves your foe reeling, taking increased damage with reduced AC.^0
-36951^6^[2HS] Deliver a 2 hit combo that leaves your foe unable to cast spells for 12 seconds.^0
-36953^6^[2HS] Deliver a devastating 4 hit attack on your foe.^0
-36954^6^[1HB] Deliver a powerful strike to your foe.^0
-36955^6^[1HB] Revel in moonlight to restore your MP.^0
+36922^6^[1HS] Deliver two quick slashes to your foe. Skillchain property: Scission.^0
+36923^6^[1HS] Ignite your foe with a fiery slash and reduce their AC. Skillchain property: Liquefaction.^0
+36925^6^[1HS] Bash your foe with the handle of your weapon to deliver a stunning blow. Skillchain property: Impaction.^0
+36927^6^[1HS] Deliver a slash of your blade infused with holy energy that heals you over time. Skillchain property: Transfixion.^0
+36928^6^[1HS] Freeze your foe with an icy slash that deals damage over time and reduces their movement speed. Skillchain property: Reverberation.^0
+36930^6^[1HS] Swing your blade in a sweeping arc to slash all foes around you. Skillchain property: Detonation.^0
+36931^6^[1HS] Deliver a 4 hit combination of attacks to decimate your foe. Skillchain property: Compression.^0
+36932^6^[1HS] Hit your foe with a 2 hit technique that reduces their physical abilities. Skillchain property: Detonation.^0
+36934^6^[1HS] Channel the power of the earth through your blade at range, hitting your target twice and trapping nearby creatures in the earth. Skillchain property: Compression.^0
+36935^6^[2HS] Deliver a hard hitting two hit combo. Skillchain property: Scission.^0
+36936^6^[2HS] Deliver a vicious blow that fills you with the thrill of battle, increasing your damage dealt and reducing your weapon delay. Skillchain property: Reverberation.^0
+36938^6^[2HS] Deliver an elegant slash that reduces your foe's attack. Skillchain property: Reverberation.^0
+36940^6^[2HS] Hit your foe with a deadly slash. If the blow is fatal, it instantly restores your health and mana. Skillchain property: Compression.^0
+36942^6^[2HS] Project a beam from your blade that slices foes in a line. Skillchain property: Detonation.^0
+36943^6^[2HS] Deliver a stunning slash that electrifies your foe. Skillchain property: Impaction.^0
+36944^6^[2HS] Deliver a slash that wreathes your foe in darkness and curse them to flee for their lives. Skillchain property: Reverberation.^0
+36946^6^[1HS] Deliver a 3 hit combo and infuse yourself with the power of wind to increase your chance to crit and attack speed. Skillchain property: Transfixion.^0
+36948^6^[2HS] Deliver a blow that leaves your foe reeling, taking increased damage with reduced AC. Skillchain property: Induration.^0
+36951^6^[2HS] Deliver a 2 hit combo that leaves your foe unable to cast spells for 12 seconds. Skillchain property: Transfixion.^0
+36953^6^[2HS] Deliver a devastating 4 hit attack on your foe. Skillchain property: Transfixion.^0
+36954^6^[1HB] Deliver a powerful strike to your foe. Skillchain property: Impaction.^0
+36955^6^[1HB] Revel in moonlight to restore your MP. Skillchain property: Reverberation.^0
 37146^6^Summons an eye of power to attack your target for @1 seconds.^0
 37169^6^Spawns a familiar, which increases damage for all spells by thirty to sixty percent for all instant-cast detrimental spells level 100 and below.^0
 37171^6^Slows casting and melee speeds by 20 percent for up to %z.^0
@@ -35317,7 +35317,7 @@
 38964^6^Silences target.^0
 38965^6^Grants bonuses to melee speed and attack power.^0
 38966^6^Fire causes you to lose health over time.^0
-39968^6^[Archery] Shoot an arrow that restricts your foe's movement.^0
+39968^6^[Archery] Shoot an arrow that restricts your foe's movement. Skillchain property: Scission.^0
 40300^0^This banner will rally your guildmates, causing their destructive abilities up to level 20 to be up to 5 percent more potent.<br><br>This banner requires a Banner Material Kit: Focus of Anger and a Banner Dye Kit: Dull Simple Dye to create.^0
 40301^0^This banner will rally your guildmates, causing their destructive abilities up to level 20 to be up to 10 percent more potent.<br><br>This banner requires a Banner Material Kit: Focus of Anger and a Banner Dye Kit: Sharp Simple Dye to create.^0
 40302^0^This banner will rally your guildmates, causing their destructive abilities up to level 20 to be up to 15 percent more potent.<br><br>This banner requires a Banner Material Kit: Focus of Anger and a Banner Dye Kit: Shiny Simple Dye to create.^0
@@ -37131,8 +37131,8 @@
 95311^6^You erupt in a brutal rampage, savagely battering every enemy around you.^0
 95312^6^You rush your target with reckless goblin fury, striking it three times in quick succession and invigorating yourself with endurance and mana.^0
 95313^6^You gorge yourself on a hearty feast, mending your wounds and bolstering your hit points and armor class for %z.^0
-95314^6^[1HS] Slash your foe with a powerful blade of fire and ice that burns and chills it over time, reducing its armor and movement speed.^0
-95315^6^[1HS] Deliver a savage two-hit combo to your foe, restoring some of your own mana.^0
+95314^6^[1HS] Slash your foe with a powerful blade of fire and ice that burns and chills it over time, reducing its armor and movement speed. Skillchain property: Impaction.^0
+95315^6^[1HS] Deliver a savage two-hit combo to your foe, restoring some of your own mana. Skillchain property: Impaction.^0
 95316^6^Your goblin fury surges through you, instantly restoring some endurance and granting more endurance and mana over the next few seconds.^0
 95317^6^Restores some of your endurance.^0
 95318^1^Opportunist^0
@@ -37140,9 +37140,9 @@
 95319^4^You prepare to exploit an opening. Your next backstab is certain to land, with a greatly increased chance to critically hit and greatly increased damage.^0
 95320^4^Your dragoon training increases your accuracy, critical hit chance and minimum damage with every weapon, and gives you a chance to pierce your opponent's defenses. Your draconic affinity also renders you immune to fear and lets you land crippling blows.^0
 95400^6^Calls shadows to conceal you and your group, allowing all of you to move undetected by many creatures for up to %z.^0
-95401^6^[2HP] Deliver three powerful thrusts that leave you empowered, increasing your chance to double attack and the damage of your melee attacks for a short time.^0
-95402^6^[2HP] Deliver a powerful draconic thrust with a chance to sear your foe with dragonfire that burns them over time.^0
-95403^6^[1HB] Deliver a 6 hit combination of attacks to decimate your foe.^0
+95401^6^[2HP] Deliver three powerful thrusts that leave you empowered, increasing your chance to double attack and the damage of your melee attacks for a short time. Skillchain property: Transfixion.^0
+95402^6^[2HP] Deliver a powerful draconic thrust with a chance to sear your foe with dragonfire that burns them over time. Skillchain property: Compression.^0
+95403^6^[1HB] Deliver a 6 hit combination of attacks to decimate your foe. Skillchain property: Compression.^0
 95404^6^Draws an ancient draconic circle around your group, greatly increasing their maximum hit points and attack and rendering them immune to fear for %z.^0
 95405^6^You create images of yourself, absorbing the next three attacks or direct damage spells that would otherwise strike you.^0
 95406^6^You leap into the skies and take flight, able to fly freely for %z.^0
@@ -37168,7 +37168,7 @@
 95426^6^The cursed blade draws blood from its wielder.^0
 95427^6^You swing the cursed blade in a deadly arc, stunning your opponent and causing #1 damage, but it draws blood from you in turn.^0
 95500^6^Freezes your foe with ice, causing between #1 and @1 initial damage and slowing their movement speed.^0
-95501^6^[H2H] Deliver a hard hitting two hit combo that energizes your group, granting them a burst of overhaste.^0
+95501^6^[H2H] Deliver a hard hitting two hit combo that energizes your group, granting them a burst of overhaste. Skillchain property: Transfixion.^0
 95502^6^You dispel a harmful magical effect afflicting your target.^0
 95503^6^Cloaks your group in a mystic veil, making them invisible to many creatures.^0
 95504^6^Increases your group's AC, resistance to stuns, and all resistances. Overwrites and is overwritten by all other melodies.^0
@@ -37181,8 +37181,8 @@
 95605^6^Your time as a thief has granted you attack power, increased movement rate, chance to avoid melee attacks, chance to triple attack, and increased backstab damage.^0
 95606^6^You are filled with a burst of fury which increases your attack speed by @1 in addition to increasing your strength, agility, dexterity, and armor class for %z.^0
 95607^6^Your skin takes on attributes of a snake, regenerating @2 hit points every 6 seconds and granting a damage shield of @3 and @4 armor class for %z.^0
-95608^6^[Archery] Looses a rapid barrage of five arrows at your foe.^0
-95609^6^[1HB] Unleash a blinding flash of color, stunning all nearby enemies.^0
+95608^6^[Archery] Looses a rapid barrage of five arrows at your foe. Skillchain property: Transfixion.^0
+95609^6^[1HB] Unleash a blinding flash of color, stunning all nearby enemies. Skillchain property: Transfixion.^0
 95610^6^A burst of holy power that inflicts between #1 and @1 damage to your target, with an additional burst of damage if the target is undead.^0
 95611^6^Bestows the favor of the gods upon your target, granting them a second chance at life should they fall in battle.  Consumes two Water Crystal Fragments when cast.^0
 95612^6^Blinds your target with a flash of radiant light, reducing their accuracy for %z.^0
@@ -37223,14 +37223,14 @@
 95816^6^The power drill has mangled this target's defenses, greatly decreasing their AC and melee mitigation and causing them to bleed for %z.^0
 95817^6^The grace of Parting the Silk lingers, increasing your proc rate.^0
 95818^6^Divine energy flows through you, restoring your health and mana over time.^0
-95819^6^[1HP] Two deadly stabs that leave you primed to heal, increasing your chance to land critical heals for a short time.^0
+95819^6^[1HP] Two deadly stabs that leave you primed to heal, increasing your chance to land critical heals for a short time. Skillchain property: Transfixion.^0
 95820^6^The rhythm of your technique lingers, increasing your chance to land critical heals.^0
-95821^6^[2HP] Deliver two powerful thrusts that sharpen your reflexes, letting you avoid more attacks for a short time.^0
-95822^6^[1HP] You eviscerate your target with five vicious thrusts of your knife.^0
-95823^6^[Archery] Fire three slavering shots at your foe, and your pet's wounds begin to close for a short time.^0
+95821^6^[2HP] Deliver two powerful thrusts that sharpen your reflexes, letting you avoid more attacks for a short time. Skillchain property: Induration.^0
+95822^6^[1HP] You eviscerate your target with five vicious thrusts of your knife. Skillchain property: Transfixion.^0
+95823^6^[Archery] Fire three slavering shots at your foe, and your pet's wounds begin to close for a short time. Skillchain property: Detonation.^0
 95824^6^The thrill of the hunt closes your wounds over time.^0
-95825^6^[1HS] Strike your foe three times with a vicious technique absorbed from a master swordsman.^0
-95826^6^[2HS] Cut your foe down with two strokes that scatter like cherry blossoms.^0
+95825^6^[1HS] Strike your foe three times with a vicious technique absorbed from a master swordsman. Skillchain property: Transfixion.^0
+95826^6^[2HS] Cut your foe down with two strokes that scatter like cherry blossoms. Skillchain property: Compression.^0
 100182^6^Creates a cascade of magical energy that surrounds the target.^0
 100307^6^Drops a decaying pumpkin on the ground.^0
 100308^6^Poisons tidepools.^0
@@ -37754,20 +37754,20 @@
 1050925^6^You blast your opponent with fire which imperils them to cold effects.^0
 1050926^6^You blast your foe with pure darkness enfeebling their resistances and increasing the damage they take.^0
 1050927^6^^0
-1050928^6^[Archery] Shoots a powerful accurate shot at your foe.^0
+1050928^6^[Archery] Shoots a powerful accurate shot at your foe. Skillchain property: Impaction.^0
 1050929^6^[Archery] Shoots an arrow that impedes the movement of your foe.^0
-1050930^6^[Archery] Shoots a pair of arrows at your target.^0
-1050931^6^[Archery] Shoots a stunning shot at your foe that enfeebles their resists.^0
-1050932^6^[1HP] A two hit attack that poisons your enemy.^0
-1050933^6^[1HP] Deliver three light stabs that temporarily empowers you with evasion and attack speed.^0
-1050934^6^[1HP] Deliver a thrust that conjures a whirlwind nearby that damages enemies in an area of effect.^0
-1050935^6^[1HP] Delivers two stabs to your foe that inflicts them with a deadly disease.^0
-1050936^6^[2HP] Delivers a fierce stab and a lighter follow-up stab in quick succession.^0
-1050937^6^[2HP] Deliver a thrust that calls a bolt of lightning to strike your foe.^0
-1050938^6^[2HP] Deliver 5 consecutive stabs in rapid succession.^0
-1050939^6^[1HS] Deliver a powerful slash that greatly increases your chance to parry the next eight attacks made against you within a brief period.^0
-1050940^6^[1HS] Deliver a powerful slash that replenishes your mental energy.^0
-1050941^6^[2HP] Impale a line of enemies with two powerful stabs.^0
+1050930^6^[Archery] Shoots a pair of arrows at your target. Skillchain property: Detonation.^0
+1050931^6^[Archery] Shoots a stunning shot at your foe that enfeebles their resists. Skillchain property: Reverberation.^0
+1050932^6^[1HP] A two hit attack that poisons your enemy. Skillchain property: Scission.^0
+1050933^6^[1HP] Deliver three light stabs that temporarily empowers you with evasion and attack speed. Skillchain property: Reverberation.^0
+1050934^6^[1HP] Deliver a thrust that conjures a whirlwind nearby that damages enemies in an area of effect. Skillchain property: Detonation.^0
+1050935^6^[1HP] Delivers two stabs to your foe that inflicts them with a deadly disease. Skillchain property: Liquefaction.^0
+1050936^6^[2HP] Delivers a fierce stab and a lighter follow-up stab in quick succession. Skillchain property: Scission.^0
+1050937^6^[2HP] Deliver a thrust that calls a bolt of lightning to strike your foe. Skillchain property: Impaction.^0
+1050938^6^[2HP] Deliver 5 consecutive stabs in rapid succession. Skillchain property: Detonation.^0
+1050939^6^[1HS] Deliver a powerful slash that greatly increases your chance to parry the next eight attacks made against you within a brief period. Skillchain property: Scission.^0
+1050940^6^[1HS] Deliver a powerful slash that replenishes your mental energy. Skillchain property: Transfixion.^0
+1050941^6^[2HP] Impale a line of enemies with two powerful stabs. Skillchain property: Induration.^0
 1050942^6^Protects your target with white magic which mitigates some physical damage taken.^0
 1050943^6^Protects your target with white magic which mitigates some magical damage taken.^0
 1050944^6^The draconic stab burns you over time.^0
@@ -37782,10 +37782,10 @@
 1050953^6^You toss a rope to your ally, pulling them to your current location.^0
 1050954^6^Calls a divine dragon hatchling to your side which periodically breathes healing energy on your group and increases your resistances slightly.^0
 1050955^6^Your Dragoon training increases proficiency with two handed weapons including accuracy, critical hit rate, and minimum damage. Additionally provides a chance to ignore your opponent's defenses.^0
-1050956^6^[H2H] Deliver a three hit combination that raises your group's attack speed for a short time.^0
-1050957^6^[H2H] Delivers a single powerful fist that restores a little mana over time to your party.^0
-1050958^6^[H2H] You ram your foe with your shoulder, increasing your group's fire, cold and magic resistances and armor class for a short time.^0
-1050959^6^[H2H] Deliver two strikes to your foe's vitals, crippling their agility, dexterity, strength and armor class while slowly restoring your group's health.^0
+1050956^6^[H2H] Deliver a three hit combination that raises your group's attack speed for a short time. Skillchain property: Impaction.^0
+1050957^6^[H2H] Delivers a single powerful fist that restores a little mana over time to your party. Skillchain property: Detonation.^0
+1050958^6^[H2H] You ram your foe with your shoulder, increasing your group's fire, cold and magic resistances and armor class for a short time. Skillchain property: Reverberation.^0
+1050959^6^[H2H] Deliver two strikes to your foe's vitals, crippling their agility, dexterity, strength and armor class while slowly restoring your group's health. Skillchain property: Scission.^0
 1050960^6^Launches a volley of four shurikens at your target.^0
 1050961^6^Launches a well placed shuriken at your target.^0
 1050962^6^You deftly weave shuriken tosses in between your melee attacks for a period of time.^0
@@ -37810,14 +37810,14 @@
 1050981^6^Gives your attacks a chance to cast stone III for %z.^0
 1050982^6^Forms a cloud of dense air around your feet, allowing you to float slightly off the ground for up to %z.^0
 1050983^6^Your martial arts training gives you increased regeneration, maximum HP, chance to counter attack and perform additional special attacks.^0
-1050984^6^[H2H] Delivers a brutal 5 hit combination that fills your group with rage, increasing their chance to critically hit.^0
+1050984^6^[H2H] Delivers a brutal 5 hit combination that fills your group with rage, increasing their chance to critically hit. Skillchain property: Impaction.^0
 1050985^6^Your next 5 hits are empowered chi strikes, dealing increased damage.^0
 1050986^6^Increase your chance to dodge melee attacks for the next two minutes.^0
 1050987^6^You concentrate and increase the accuracy of your hand to hand attacks.^0
 1050988^6^You release a wave of purifying chakra that cures ailments for you and your party.^0
 1050989^6^Your dancer training has given you an increased chance to dodge and to hit with 1 hand piercing weapons. Additionally you generate less hate.^0
 1050990^6^Your dancer training has given you an increased chance to dodge and to hit with 1 hand piercing weapons. Additionally you generate less hate and have a higher chance to dual wield.^0
-1050991^6^[1HP] You deliver five vicious thrusts of your knife to your target.^0
+1050991^6^[1HP] You deliver five vicious thrusts of your knife to your target. Skillchain property: Compression.^0
 1050992^6^Your dance demoralizes your foe, reducing their movement speed.^0
 1050993^6^Increases your group's AC, strength, and all resistances. Overwrites and is overwritten by all other melodies.^0
 1050994^6^Increases your group's attack and attack speed. Overwrites and is overwritten by all other harmonies.^0
@@ -37835,7 +37835,7 @@
 1051006^6^You prepare a surprise attack which causes your next four successful attacks to be guaranteed criticals.^0
 1051007^6^You sprint - greatly increasing your movement speed for thirty seconds.^0
 1051008^6^You cover up the misdeeds of your target which will allow them to shed some hate if they are currently being attacked.^0
-1051009^6^[1HP] Obliterate your foe with two deadly stabs.^0
+1051009^6^[1HP] Obliterate your foe with two deadly stabs. Skillchain property: Transfixion.^0
 1051010^6^You protect your target with a curing aegis. When the target is struck by melee combat the aegis will often attempt to heal its wounds.^0
 1051011^6^Your white mage training gives you increased healing power, chance to critically heal and twincast healing spells.^0
 1051012^6^Your next heal spell is guaranteed to crit.^0
@@ -37959,7 +37959,7 @@
 1051130^6^Magically fills your lungs with air, removing your need to breathe for %z.  Consumes an air crystal fragment.^0
 1051131^6^Changes your appearance to that of a raven.^0
 1051132^6^Allows you to take the form of a raven, increasing movement speed, attack, granting ultravision and levitation for the duration.^0
-1051133^6^Looses a well placed shot into your foe to impede their arm movements, dealing damage and decreasing their attack speed.^0
+1051133^6^Looses a well placed shot into your foe to impede their arm movements, dealing damage and decreasing their attack speed. Skillchain property: Compression.^0
 1051134^6^Commands roots to take hold of your target, doing #1 damage and preventing their movement for %z.  Requires an earth elemental crystal to cast.^0
 1051135^6^Greatly increases your chance to crit  and your critical damage as well as your chance to hit with kick attacks.^0
 1051136^6^You release a howl of battle, granting endurance to yourself and nearby allies.^0
@@ -37979,18 +37979,18 @@
 1051150^6^Invokes a ninjutsu technique on you and your group, increasing their attack rating for %z.^0
 1051151^6^You focus your mana into creating a shadowy clone of yourself that persists for a little bit, using your spells and weapons.^0
 1051152^6^You create images of yourself, absorbing the next spell or abilities that would otherwise land.^0
-1051153^6^[1HS] Strike with holy ice, dealing damage and stunning foes in an area around your target with a chance to apply stop.^0
+1051153^6^[1HS] Strike with holy ice, dealing damage and stunning foes in an area around your target with a chance to apply stop. Skillchain property: Induration.^0
 1051154^6^You adopt the seigan stance, increasing your chance to riposte and giving you a chance to defensively proc your third eye ability.^0
 1051155^6^The aftermath of the holy lightning has left you awestruck and you are unable to speak for a brief period of time.^0
-1051156^6^[1HS] Strike with holy thunder, dealing damage and stunning foes in an area around your target with a chance to apply silence.^0
+1051156^6^[1HS] Strike with holy thunder, dealing damage and stunning foes in an area around your target with a chance to apply silence. Skillchain property: Impaction.^0
 1051157^6^[1HB] You don an empowered suit of magitek armor, increasing your hit damage, min hit damage, ac, atk, hp regeneration, proc rate as well as periodically proccing cryogenic ray mk III. ^0
 1051158^6^^0
 1051159^6^The aftermath of impulse drive improves your reflexes, allowing you to avoid more attacks.^0
-1051160^6^[1HS] A devastating 5 hit technique.^0
-1051161^6^[2HS] Deliver a devastating 2 hit combination to your foe that almost never misses.^0
-1051162^6^[1HS] Slash your foe with a three hit combination that improves your group's proc rate for the next minute.^0
+1051160^6^[1HS] A devastating 5 hit technique. Skillchain property: Transfixion.^0
+1051161^6^[2HS] Deliver a devastating 2 hit combination to your foe that almost never misses. Skillchain property: Transfixion.^0
+1051162^6^[1HS] Slash your foe with a three hit combination that improves your group's proc rate for the next minute. Skillchain property: Transfixion.^0
 1051163^6^^0
-1051164^6^[H2H] Unleash a divine eight hit combination on your foe that restores your group's health and mana for a short time.^0
+1051164^6^[H2H] Unleash a divine eight hit combination on your foe that restores your group's health and mana for a short time. Skillchain property: Reverberation.^0
 1120101^22^Tier I^0
 1120101^23^Race: Human<br>Type: Damage Caster<br>Confidence: Low<br>Proficiency: Apprentice, Tier I<br><br>Description: The mercenary you will be assigned is an apprentice damage caster of the first tier who exhibits a basic proficiency in the critical spells and skills used in their profession. Typically, this classification consists of mercenaries that have no field experience and possess no formal apprentice-level education, two factors that play a critical role in defining the mercenary's confidence level and frequent tendency to flee during moderately challenging encounters.<br><br>The mercenary's appointment to you will serve as an official introduction to their apprenticeship and the contractual, monetary obligations associated with the mercenary's services are commensurate with their experience. ^0
 1120102^22^Tier II^0
