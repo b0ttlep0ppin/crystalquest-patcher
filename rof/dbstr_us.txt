@@ -37232,6 +37232,7 @@
 95824^6^The thrill of the hunt closes your wounds over time.^0
 95825^6^[1HS] Strike your foe three times with a vicious technique absorbed from a master swordsman. Skillchain property: Transfixion.^0
 95826^6^[2HS] Cut your foe down with two strokes that scatter like cherry blossoms. Skillchain property: Compression.^0
+95827^6^Shakes a handful of crystal slivers out of the pouch, sharp enough to throw.^0
 100182^6^Creates a cascade of magical energy that surrounds the target.^0
 100307^6^Drops a decaying pumpkin on the ground.^0
 100308^6^Poisons tidepools.^0
